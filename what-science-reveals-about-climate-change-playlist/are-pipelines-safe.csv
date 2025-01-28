@@ -1,0 +1,15 @@
+video,subdomain,domain,top_level,response
+are-pipelines-safe,2012-keystonepipeline-xl,state,gov,403
+are-pipelines-safe,eelp.law,harvard,edu,403
+are-pipelines-safe,www,tcenergy,com,404
+are-pipelines-safe,www,aboutpipelines,com,410
+are-pipelines-safe,www,whitehouse,gov,200
+are-pipelines-safe,www,eia,gov,200
+are-pipelines-safe,www,bts,gov,200
+are-pipelines-safe,portal.phmsa,dot,gov,200
+are-pipelines-safe,www,api,org,200
+are-pipelines-safe,www,bts,gov,200
+are-pipelines-safe,www,bbc,com,200
+are-pipelines-safe,www,eia,gov,200
+are-pipelines-safe,www,brookings,edu,200
+are-pipelines-safe,www,eia,gov,200

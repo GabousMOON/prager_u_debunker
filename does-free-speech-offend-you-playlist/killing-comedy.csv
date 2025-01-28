@@ -1,0 +1,15 @@
+video,subdomain,domain,top_level,response
+killing-comedy,www,axios,com,403
+killing-comedy,finance,yahoo,com,404
+killing-comedy,,babylonbee,com,200
+killing-comedy,,babylonbee,com,200
+killing-comedy,www,theguardian,com,200
+killing-comedy,www,snopes,com,200
+killing-comedy,www,snopes,com,200
+killing-comedy,,babylonbee,com,200
+killing-comedy,,babylonbee,com,200
+killing-comedy,www,washingtonexaminer,com,403
+killing-comedy,www,foxnews,com,200
+killing-comedy,play,google,com,200
+killing-comedy,www,wsj,com,403
+killing-comedy,www,nationalreview,com,200
